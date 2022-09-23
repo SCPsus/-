@@ -1,0 +1,54 @@
+<html>
+<body>
+    <style>
+        body{
+        background-color: black;
+        }
+    
+        div{
+            background-image: url('');
+        }
+            
+        div{
+            background-color: ;
+        }
+        
+        div.first{
+            background-color: ;
+        }
+        
+        div.second{
+            background-color: ;
+        }
+        
+        h1 {
+           text-align: center;
+        } 
+        
+        h2 {
+           color: white;
+           text-align: center;
+        }
+        
+        a {
+           color: red;
+        }
+
+        a:hover {
+            color: lightblue;
+        }
+
+    </style>
+    <div>
+        <h2>Hellow World</h2>
+    </div>
+    
+    <div class='first'>
+        <h2>it's just a little trolling</h2>
+    </div>
+    
+    <div class='second'>
+        <h1><strong><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS Tutorial</a></strong></h1>
+    </div>
+</body>
+</html>
